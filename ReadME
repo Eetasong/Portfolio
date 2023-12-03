@@ -2,7 +2,7 @@ This website uses Bootstrap, Sass, and Parcel.
 Run npm install after cloning.
 The run "npm run dev"
 
-The localhost does not run the dist file because i have changed the root dir for parcel into docs.
+The localhost started by parcel does not run the dist file because i have changed the root dir for parcel into docs.
 So, to run the website, navigate to docs folder and open index.html.
 Then start live server on the "docs/index.html"
 
